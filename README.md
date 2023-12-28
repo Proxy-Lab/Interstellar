@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Interstellar V5.4</h1>
+    <h1>Interstellar V5.5</h1>
     <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
     
 ### [Join our Discord!](https://discord.gg/interstellar)
